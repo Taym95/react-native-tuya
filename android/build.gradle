@@ -10,7 +10,6 @@ buildscript {
         maven{
             url 'https://maven.aliyun.com/nexus/content/groups/public/'
         }
-        jcenter()
         google()
     }
 
